@@ -64,32 +64,44 @@
           {
             "id": 1,
             "image": "https://i.postimg.cc/jqQP0FQW/Screenshot-2023-06-30-112105.png",
-            "desc": "BMI Calc"
+            "desc": "BMI Calculator",
+              "github": "https://github.com/Mufuniwa8/BMI-calculator.git",
+              "netlify": "https://jazzy-kheer-4885ce.netlify.app/"
           },
           {
             "id": 2,
             "image": "https://i.postimg.cc/d04pxBHg/Screenshot-2023-06-30-112152.png",
-            "desc": "Temp con"
+            "desc": "Temperature converter",
+              "github": "https://github.com/Mufuniwa8/js-temperature.git",
+              "netlify": "https://stunning-druid-47babb.netlify.app/"
           },
           {
             "id": 3,
             "image": "https://i.postimg.cc/cLsNkr1g/Screenshot-2023-06-30-112219.png",
-            "desc": "first port"
+            "desc": "First EOMP portfolio",
+              "github": "https://github.com/Mufuniwa8/My-Portfolio.git",
+              "netlify": "https://jazzy-kheer-4885ce.netlify.app/",
           },
           {
             "id": 4,
             "image": "https://i.postimg.cc/VvDFYGMc/Flip-cards.png",
-            "desc": "flip card"
+            "desc": "flip card",
+              "github": "https://github.com/Mufuniwa8/Animation.git",
+              "netlify": "https://ornate-eclair-593e99.netlify.app/"
           },
           {
             "id": 5,
             "image": "https://i.postimg.cc/HLX4Js5z/class-list.png",
-            "desc": "class table"
+            "desc": "class table",
+              "github": "https://github.com/Mufuniwa8/Class.git",
+              "netlify": "https://tubular-puffpuff-079980.netlify.app/"
           },
           {
             "id": 6,
             "image": "https://i.postimg.cc/G2s23Hy3/Fisrt-portfolio.png",
-            "desc": "portfolio"
+            "desc": "Demo portfolio",
+              "github": "https://github.com/Mufuniwa8/Portfolio.git",
+              "netlify": "https://soft-starburst-aa77e5.netlify.app/"
           }
     ],
      "testimonials": [
