@@ -1,0 +1,148 @@
+{
+    "skills": [
+            {
+                "id": 1,
+                "image": "https://i.postimg.cc/kgrgHzL3/bootstrap-plain-wordmark-logo-icon-146620.png",
+                "Title": "Bootstrap",
+                "Skill": "Skilled",
+                "Percentage": "90%",
+                "skill bar": "90"
+            },
+            {
+              "id": 2,
+              "image": "https://i.postimg.cc/vTf83mPg/Java-Script-Symbol.png",
+              "Title": "Java Script",
+              "Skill": "Skilled",
+              "Percentage": "60%",
+              "skill bar": "60" 
+            },
+            {
+                "id": 3,
+                "image": "https://i.postimg.cc/sDDsBySJ/HTML5-1-Color-Black.png",
+                "Title": "HTML",
+                "Skill": "Skilled",
+                "Percentage": "78%",
+                "skill bar": "78" 
+              },
+              {
+                "id": 4,
+                "image": "https://i.postimg.cc/2y39x24c/css3-logo-png-transparent.png",
+                "Title": "CSS",
+                "Skill": "Skilled",
+                "Percentage": "86%",
+                "skill bar": "86"  
+              }
+    ],
+    "education": [
+       {
+        "id": 1,
+        "year": "2022",
+        "desc": "Mufuniiwa Studied for a higher certificate in Mobile App and web development at Varsity college."
+       },
+       {
+        "id": 2,
+        "year": "2021",
+        "desc": "Mufuniiwa matriculated in 2021 with a bachelor pass.He switched Accounting with Tourism"
+       },
+       {
+        "id": 3,
+        "year": "2019",
+        "desc": "IN 2019 Mufuniwa was in grade 10.Business studies, Economics, Maths Lit, Accounting, Life Orientation, English FAL and Tshivenda HL were the subjects that he chose to do."
+       },
+       {
+        "id": 4,
+        "year": "2017",
+        "desc": "IN 2017 Mufuniwa started his High school at Ribane laka Secondary school which is one one of the best high school in the area.Business studies, Economics, Maths Lit, Accounting, Life Orientation, English FAL and Tshivenda HL were the subjects that he chose to do."
+       },
+       {
+        "id": 5,
+        "year": "2013",
+        "desc": "IN 2013 Mufuniwa moved to another school Mveledzo Primary School. This is where Mufuniwa was able to shine and he finished the rest of his Primary school at Mveledzo"
+       }
+    ],
+    "projects": [
+          {
+            "id": 1,
+            "image": "https://i.postimg.cc/jqQP0FQW/Screenshot-2023-06-30-112105.png",
+            "desc": "BMI Calc"
+          },
+          {
+            "id": 2,
+            "image": "https://i.postimg.cc/d04pxBHg/Screenshot-2023-06-30-112152.png",
+            "desc": "Temp con"
+          },
+          {
+            "id": 3,
+            "image": "https://i.postimg.cc/cLsNkr1g/Screenshot-2023-06-30-112219.png",
+            "desc": "first port"
+          },
+          {
+            "id": 4,
+            "image": "https://i.postimg.cc/VvDFYGMc/Flip-cards.png",
+            "desc": "flip card"
+          },
+          {
+            "id": 5,
+            "image": "https://i.postimg.cc/HLX4Js5z/class-list.png",
+            "desc": "class table"
+          },
+          {
+            "id": 6,
+            "image": "https://i.postimg.cc/G2s23Hy3/Fisrt-portfolio.png",
+            "desc": "portfolio"
+          }
+    ],
+     "testimonials": [
+        [
+            {
+              "id": 1,
+              "image": "https://i.postimg.cc/JnWdsXBp/C12-C2-Abenathi-Sindapi-2.jpg",
+              "name": "Abenathi Sindapi",
+              "desc": "Mufuniwa is great person to be around, he goes out of his way to help those around and makes sure they are doing good. He is great to work with and as he has good leadership skills to lead people even when there is pressure."
+            },
+            {
+              "id": 2,
+              "image": "https://i.postimg.cc/xTSHBRVx/19cd5c04-c746-49c1-9e4f-ad3b4179bd45.jpg",
+              "name": "Lisa Mbuwa",
+              "desc": "Its wonderful working with Mufuniwa as he is a calm and humble person. He never looks down on anyone and he is the most sweetest person to be around with . He is a hard worker and he is passionate about his work."
+            },
+            {
+              "id": 3,
+              "image": "https://i.postimg.cc/7ZjqQKpb/T02-LW4-RMXJQ-U043-V1-M60-CW-30ffd6e27f31-512.jpg",
+              "name": "Sakhe Mzolisa",
+              "desc": "Mufuniwa is a go-getter, when faced with a problem he first tries to solve it before consulting an assistant. He will definitely go far in the ICT space with the passion and desire he has for coding."
+            },
+            {
+              "id": 4,
+              "image": "https://i.postimg.cc/GhG0mbN3/IMG-3453.jpg",
+              "name": "Sisipho Pepengweni",
+              "desc": "I highly recommend Mufuniwa for any web development projects. His exceptional skills, dedication, and eagerness to learn are truly impressive."
+            },
+            {
+              "id": 5,
+              "image": "https://i.postimg.cc/X7b8b300/C12-Cheslyn-Herman-1.jpg",
+              "name": "Cheslyn Herman",
+              "desc": "Mufuniwa carries himself well and is a confident individual. Being on his team reassures you that you will meet your goals as he is disciplined within his work."
+            },
+            {
+              "id": 6,
+              "image": "https://i.postimg.cc/1t7LdtdP/Khazimla.jpg",
+              "name": "Khazimla Mahomana",
+              "desc": "I have known Mufiniwa for a very short time but I have discovered that he is very kind. He also engages well with his teammates during project sprints and is extremely hard-working."
+            },
+            {
+              "id": 7,
+              "image": "https://i.postimg.cc/3RGctB2j/C12-C2-Connor-Winkworth.jpg",
+              "name": "Conner Winkworth",
+              "desc": "Mufuniwa is a confident and ambitious young man. His creative thinking and sharp eye for detail is reflected in the work he produces."
+            },
+            {
+              "id": 8,
+              "image": "https://i.postimg.cc/ydfyX3bh/C12-Olwethu-Bhiya-2.jpg",
+              "name": "Olwethu Bhiya",
+              "desc": "I am glad to have worked with Mufuniwa, He is a great team player and takes great detail in his work."
+            }
+          ]
+          
+     ]
+}
