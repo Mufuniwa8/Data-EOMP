@@ -93,7 +93,7 @@
           }
     ],
      "testimonials": [
-        [
+        
             {
               "id": 1,
               "image": "https://i.postimg.cc/JnWdsXBp/C12-C2-Abenathi-Sindapi-2.jpg",
@@ -142,7 +142,7 @@
               "name": "Olwethu Bhiya",
               "desc": "I am glad to have worked with Mufuniwa, He is a great team player and takes great detail in his work."
             }
-          ]
+          
           
      ]
 }
