@@ -64,42 +64,48 @@
           {
             "id": 1,
             "image": "https://i.postimg.cc/jqQP0FQW/Screenshot-2023-06-30-112105.png",
-            "desc": "BMI Calculator",
+              "title": "BMI Calculator",
+            "desc": "This was my first java script task that we were given and it went very well",
               "github": "https://github.com/Mufuniwa8/BMI-calculator.git",
               "netlify": "https://sparkly-smakager-a07af3.netlify.app/"
           },
           {
             "id": 2,
             "image": "https://i.postimg.cc/d04pxBHg/Screenshot-2023-06-30-112152.png",
-            "desc": "Temperature converter",
+              "title": "Temperature converter",
+            "desc": "This was the temperature converter that i did also using java script",
               "github": "https://github.com/Mufuniwa8/js-temperature.git",
               "netlify": "https://stunning-druid-47babb.netlify.app/"
           },
           {
             "id": 3,
             "image": "https://i.postimg.cc/cLsNkr1g/Screenshot-2023-06-30-112219.png",
-            "desc": "First EOMP portfolio",
+              "title": "EOMP Portfolio",
+            "desc": "This was my first EOMP that i did using CSS, HTML and Bootstrap",
               "github": "https://github.com/Mufuniwa8/My-Portfolio.git",
               "netlify": "https://jazzy-kheer-4885ce.netlify.app/"
           },
           {
             "id": 4,
             "image": "https://i.postimg.cc/VvDFYGMc/Flip-cards.png",
-            "desc": "flip card",
+              "title": "Flip Card",
+            "desc": "this was the flip card that i used using css",
               "github": "https://github.com/Mufuniwa8/Animation.git",
               "netlify": "https://ornate-eclair-593e99.netlify.app/"
           },
           {
             "id": 5,
             "image": "https://i.postimg.cc/HLX4Js5z/class-list.png",
-            "desc": "class table",
+              "title": "Class Table",
+            "desc": "the was a class table that i used using my class mates information",
               "github": "https://github.com/Mufuniwa8/Class.git",
               "netlify": "https://tubular-puffpuff-079980.netlify.app/"
           },
           {
             "id": 6,
             "image": "https://i.postimg.cc/G2s23Hy3/Fisrt-portfolio.png",
-            "desc": "Demo portfolio",
+              "title": "Demo portfolio",
+            "desc": "This was my first portfolio that i did before my EOMP",
               "github": "https://github.com/Mufuniwa8/Portfolio.git",
               "netlify": "https://soft-starburst-aa77e5.netlify.app/"
           }
