@@ -12,17 +12,17 @@
               "id": 2,
               "image": "https://i.postimg.cc/vTf83mPg/Java-Script-Symbol.png",
               "title": "Java Script",
-              "skill": "Skilled",
-              "percentage": "60%",
-              "skill bar": "60" 
+              "skill": "Semi-Skilled",
+              "percentage": "50%",
+              "skill bar": "50" 
             },
             {
                 "id": 3,
                 "image": "https://i.postimg.cc/sDDsBySJ/HTML5-1-Color-Black.png",
                 "title": "HTML",
                 "skill": "Skilled",
-                "percentage": "78%",
-                "skill bar": "78" 
+                "percentage": "80%",
+                "skill bar": "80" 
               },
               {
                 "id": 4,
@@ -31,38 +31,46 @@
                 "skill": "Skilled",
                 "percentage": "86%",
                 "skill bar": "86"  
-              }
+              },
+        {
+              "id": 5,
+              "image": "https://i.postimg.cc/G3G0Tfw3/1-Orj-CKmou1j-T4-It5so5gv-OA.jpg",
+              "title": "Vue.js",
+              "skill": "Skilled",
+              "percentage": "70%",
+              "skill bar": "70" 
+            },
     ],
     "education": [
        {
         "id": 1,
         "year": "2022",
         "color": "blue",
-        "desc": "Mufuniiwa Studied for a higher certificate in Mobile App and web development at Varsity college."
+        "desc": "I Studied for a higher certificate in Mobile App and web development at Varsity college."
        },
        {
         "id": 2,
         "year": "2021",
         "color": "white",
-        "desc": "Mufuniiwa matriculated in 2021 with a bachelor pass.He switched Accounting with Tourism"
+        "desc": "I matriculated in 2021 with a bachelor pass.I switched Accounting with Tourism"
        },
        {
         "id": 3,
         "year": "2019",
         "color": "blue",
-        "desc": "IN 2019 Mufuniwa was in grade 10.Business studies, Economics, Maths Lit, Accounting, Life Orientation, English FAL and Tshivenda HL were the subjects that he chose to do."
+        "desc": "IN 2019 I was in grade 10.Business studies, Economics, Maths Lit, Accounting, Life Orientation, English FAL and Tshivenda HL were the subjects that i chose to do."
        },
        {
         "id": 4,
         "year": "2017",
         "color": "white",
-        "desc": "IN 2017 Mufuniwa started his High school at Ribane laka Secondary school which is one one of the best high school in the area.Business studies, Economics, Maths Lit, Accounting, Life Orientation, English FAL and Tshivenda HL were the subjects that he chose to do."
+        "desc": "IN 2017 I started High school at Ribane laka Secondary school which is one of the best high school in the area."
        },
        {
         "id": 5,
         "year": "2013",
         "color": "blue",
-        "desc": "IN 2013 Mufuniwa moved to another school Mveledzo Primary School. This is where Mufuniwa was able to shine and he finished the rest of his Primary school at Mveledzo"
+        "desc": "IN 2013 I switched to another school Mveledzo Primary School. This is where I was able to shine and finished the rest of my Primary school at Mveledzo"
        }
     ],
     "projects": [
