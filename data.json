@@ -37,26 +37,31 @@
        {
         "id": 1,
         "year": "2022",
+        "color": "blue",
         "desc": "Mufuniiwa Studied for a higher certificate in Mobile App and web development at Varsity college."
        },
        {
         "id": 2,
         "year": "2021",
+        "color": "white",
         "desc": "Mufuniiwa matriculated in 2021 with a bachelor pass.He switched Accounting with Tourism"
        },
        {
         "id": 3,
         "year": "2019",
+        "color": "blue",
         "desc": "IN 2019 Mufuniwa was in grade 10.Business studies, Economics, Maths Lit, Accounting, Life Orientation, English FAL and Tshivenda HL were the subjects that he chose to do."
        },
        {
         "id": 4,
         "year": "2017",
+        "color": "white",
         "desc": "IN 2017 Mufuniwa started his High school at Ribane laka Secondary school which is one one of the best high school in the area.Business studies, Economics, Maths Lit, Accounting, Life Orientation, English FAL and Tshivenda HL were the subjects that he chose to do."
        },
        {
         "id": 5,
         "year": "2013",
+        "color": "blue",
         "desc": "IN 2013 Mufuniwa moved to another school Mveledzo Primary School. This is where Mufuniwa was able to shine and he finished the rest of his Primary school at Mveledzo"
        }
     ],
