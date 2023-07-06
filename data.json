@@ -45,31 +45,31 @@
        {
         "id": 1,
         "year": "2022",
-        "color": "blue",
+        "color": "rgba(255, 0, 0, 1)",
         "desc": "I Studied for a higher certificate in Mobile App and web development at Varsity college."
        },
        {
         "id": 2,
         "year": "2021",
-        "color": "white",
+        "color": "rgba(75, 238, 75, 1)",
         "desc": "I matriculated in 2021 with a bachelor pass.I switched Accounting with Tourism"
        },
        {
         "id": 3,
         "year": "2019",
-        "color": "blue",
+        "color": "rgba(144, 224, 239, 1)",
         "desc": "IN 2019 I was in grade 10.Business studies, Economics, Maths Lit, Accounting, Life Orientation, English FAL and Tshivenda HL were the subjects that i chose to do."
        },
        {
         "id": 4,
         "year": "2017",
-        "color": "white",
+        "color": "rgba(255, 165, 0, 1)",
         "desc": "IN 2017 I started High school at Ribane laka Secondary school which is one of the best high school in the area."
        },
        {
         "id": 5,
         "year": "2013",
-        "color": "blue",
+        "color": "rgba(179, 31, 173, 1)",
         "desc": "IN 2013 I switched to another school Mveledzo Primary School. This is where I was able to shine and finished the rest of my Primary school at Mveledzo"
        }
     ],
